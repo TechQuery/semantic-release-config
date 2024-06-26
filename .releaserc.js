@@ -40,6 +40,7 @@ module.exports = {
                     'package.json',
                     'dist/webtorrent.min.js',
                     'dist/webtorrent.min.js.map',
+                    'dist/**/*.d.ts',
                     'dist/webtorrent.chromeapp.js',
                     'dist/webtorrent.chromeapp.js.map',
                     'dist/sw.min.js',
